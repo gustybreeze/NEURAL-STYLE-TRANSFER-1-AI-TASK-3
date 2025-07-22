@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTHOSH KUMAR
 
 
+
 **Overview**
 Neural Style Transfer (NST) is an exciting deep learning technique that combines the content of one image with the style of another to generate a new, visually appealing image. In this task, we implemented a system that uses a pre-trained Convolutional Neural Network (CNN) (e.g., VGG19) to perform this artistic transformation.
 
@@ -145,5 +146,10 @@ Neural Style Transfer is a fascinating application of deep learning where art me
 
 
 **Output**
-
+![Image](https://github.com/user-attachments/assets/00084de0-8209-4f75-af44-f0a176b8af2d)
+content_image
+![Image](https://github.com/user-attachments/assets/dc1de024-4c56-425e-9d24-b676bde33c92)
+style_image
+![Image](https://github.com/user-attachments/assets/3374aa6c-5479-4b00-b5cc-0439396d2635)
+stylized_output
 
